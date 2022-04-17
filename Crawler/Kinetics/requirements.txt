@@ -1,0 +1,17 @@
+joblib==0.9.4
+# numpy==1.12.1
+numpy
+# openssl==1.0.2k
+pyopenssl
+pandas==0.19.2
+pip==9.0.1
+python-dateutil==2.6.0
+pytz==2017.2
+readline==6.2
+setuptools==27.2.0
+six==1.10.0
+wheel==0.29.0
+# zlib -> sudo apt-get install zlib1g-dev
+decorator==4.0.11
+olefile==0.44
+youtube-dl==2017.6.5
